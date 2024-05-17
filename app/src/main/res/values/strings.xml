@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica10</string>
+    <string name="title_home">Nosotros</string>
+    <string name="title_dashboard">Galeria</string>
+    <string name="title_notifications">Crédito</string>
+    <string name="ver">Pagina Oficial</string>
+    <string name="detalle">Detalle</string>
+    <string name="content">Conent</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="titulo">Detalle prenda\n</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">Guardar</string>
+</resources>
